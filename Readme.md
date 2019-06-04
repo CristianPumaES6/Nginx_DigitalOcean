@@ -74,3 +74,14 @@ sudo systemctl reload nginx // sin perder conecciones
 sudo systemctl disable nginx
 
 sudo systemctl enable nginx
+
+
+5 agrergar un dominio
+]
+antes https://www.digitalocean.com/docs/networking/dns/quickstart/
+ From the control panel, click Create in the top right, then select Domains/DNS.
+
+https://www.youtube.com/watch?v=wYDDYahCg60&t=30s
+
+de ahi demora 7 horas :v
+falta la parte 5
