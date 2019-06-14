@@ -85,3 +85,13 @@ https://www.youtube.com/watch?v=wYDDYahCg60&t=30s
 
 de ahi demora 7 horas :v
 falta la parte 5
+
+SI funciono ::
+
+ahora instalare nodejs 
+
+sudo apt-get install nodejs
+
+sudo npm install -g pm2
+
+    
